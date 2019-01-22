@@ -1,0 +1,38 @@
+
+@page {
+  background: white;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 0.5cm;
+ /*  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5); */
+}
+
+@media print {
+  body, page {
+    margin: 0;
+    box-shadow: 0;
+  }
+}
+table{
+    background-image: none;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    color: #333333;
+    padding: 5px 4px;
+}
+td{
+  width:200px;
+  height: 25px;
+  border: 0.5px solid #e0dede;
+
+}
+.signature td{
+  height: 100px;
+  border:none;
+}
+img{
+  margin:10px;
+}

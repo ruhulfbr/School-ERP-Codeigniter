@@ -1,0 +1,147 @@
+.footer{
+	background-color:#DADADA;
+	padding:15px;
+}
+p{
+	margin: 0px auto;
+}
+body a:hover {
+  text-decoration: none !important;
+}
+.n{
+	padding: 15px 0px;
+}
+.slider{
+	width: 1180px;
+	background: #295E90 none repeat scroll 0% 0%;
+	height: 180px;
+}
+.slider-left {
+    width: 470px;
+    height: 180px;
+    float: left;
+}
+.slider-right {
+    width: 710px;
+    background: #295E90 none repeat scroll 0% 0%;
+    height: 180px;
+    float: left;
+}
+.news{
+	margin-top:-7px;
+	width: 100%;
+	height: 33px;
+}
+.container_main{
+	width:1180px;
+	background:white;
+	clear: both;
+}
+.container_left{
+	width:285px;
+	background:white;
+	float:left;
+	padding:5px;
+	margin-left:5px;
+}
+.container_mid{
+	width:610px;
+	background:white;
+	float:left;
+	padding:10px;
+}
+.container_right{
+	width:275px;
+	background:white;
+	float:left;
+	padding:10px;
+}
+.box{
+	width:260px;
+	min-height:55px;
+	background:#0E506B;
+	border: 1px solid white;
+	border-radius:10px;
+}
+.in_box{
+	text-align:center;
+	background:#E0EFD1;
+	width: 100%;
+	margin:9px auto;
+	min-height:27px;
+	margin-top:9px;
+	margin-bottom:9px;
+	padding-top:1px;
+	padding-bottom:1px;
+}
+.box_1{
+	width:260px;
+	min-height:55px;
+	background:#0E506B;
+	border: 1px solid white;
+	border-radius:10px;
+}
+.smg{
+	width:260px;
+	min-height:90px;
+	background:#0E506B;
+	border: 1px solid white;
+}
+.map{
+	width:260px;
+	min-height:90px;
+	border: 1px solid white;
+}
+.fb_box{
+	margin-top:3px;
+	width:260px;
+	min-height:90px;
+	border: 1px solid white;
+}
+.in_box_1{
+	text-align:center;
+	background:#E0EFD1;
+	width: 100%;
+	margin:9px auto;
+	min-height:27px;
+	margin-top:9px;
+	margin-bottom:9px;
+	padding-top:1px;
+	padding-bottom:8px;
+}
+.in_box_nt{
+	text-align:center;
+	background:#E0EFD1;
+	width: 100%;
+	margin:9px auto;
+	min-height:136px;
+	margin-top:9px;
+	margin-bottom:9px;
+	padding-top:1px;
+	padding-bottom:8px;
+}
+hr {
+    height: 0px;
+    border: 1px solid #808080;
+}
+.hotline{
+	width:260px;
+}
+.footer_area{ 
+	background: #dadada;
+	color: #5e5e5e;
+	padding: 15px;
+	width: 1180px;
+	height:80px;
+	display: block;
+	clear: both;
+}
+
+.footer_left{
+	float: left;
+	
+}
+.footer_right{
+	float: right;
+	
+}

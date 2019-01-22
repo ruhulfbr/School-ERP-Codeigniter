@@ -1,0 +1,273 @@
+.view_wc {
+    float: left;
+    border: 1px solid #DDD;
+    background: #EBEBEB url("../images/welcome_grad.png") repeat-x scroll center bottom;
+    min-height: 200px;
+    width: 582px;
+    margin-bottom:20px;
+}
+.front .content-inner-inner .block h2 {
+    font-size: 24px;
+    font-weight: normal;
+    padding-left: 105px;
+    padding-top: 15px;
+}
+/* Megamenu */
+
+.megamenu-skin-npf {
+    clear: both;
+    background-color: #fafafa;
+    margin: 0 0px 10px 0px;
+    border-bottom: 1px dotted #ccc;
+    min-height: 55px;
+}
+
+.megamenu-parent {
+    border-right: 1px solid #ccc !important;
+    top: 10px;
+}
+
+.megamenu-parent.last {
+    border: none !important;
+}
+
+.megamenu-skin-npf a:hover, .megamenu-skin-npf li.hovering a {
+	text-decoration:none;
+}
+
+.megamenu-skin-npf .megamenu-parent-title a, .megamenu-parent-title span {
+	color:#000;
+	padding:14px 10px;
+	margin: 0;
+	font-size:14px;
+	line-height:2.5em;
+    cursor: pointer;
+}
+
+.megamenu-skin-npf li.hovering .megamenu-parent-title a, .megamenu-skin-npf li.hovering .megamenu-parent-title span {
+	color:#fff;
+	background-color: #000;
+    padding: 12px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.megamenu-skin-npf .megamenu-bin {
+	border-top: 6px solid #000;
+    z-index:-1;
+	padding:20px;
+	margin-top:21px;
+	background-color:#fff;
+	font-size:0.9em;
+	line-height:2em;
+	width:880px;
+	-moz-box-shadow: 0px 0px 10px #555555;
+	-webkit-box-shadow: 0px 0px 10px #555555;
+	box-shadow: 0px 0px 10px #555555;
+    -webkit-border-radius: 0 0 5px 5px;
+    -moz-border-radius: 0 0 5px 5px;
+}
+
+.megamenu-parent-1 span.nolink { color: #F60; }
+.megamenu-skin-npf li.hovering.megamenu-parent-1 .megamenu-parent-title a, .megamenu-skin-npf li.hovering.megamenu-parent-1 .megamenu-parent-title span { color:#fff; background-color: #F60; }
+.megamenu-skin-npf .megamenu-parent-1 .megamenu-bin { border-top: 6px solid #F60; }
+
+.megamenu-parent-2 span.nolink { color: #C40A2A; }
+.megamenu-skin-npf li.hovering.megamenu-parent-2 .megamenu-parent-title a, .megamenu-skin-npf li.hovering.megamenu-parent-2 .megamenu-parent-title span { color:#fff; background-color: #C40A2A; }
+.megamenu-skin-npf .megamenu-parent-2 .megamenu-bin { border-top: 6px solid #C40A2A; }
+
+.megamenu-parent-3 span.nolink { color: #84154D; }
+.megamenu-skin-npf li.hovering.megamenu-parent-3 .megamenu-parent-title a, .megamenu-skin-npf li.hovering.megamenu-parent-3 .megamenu-parent-title span { color:#fff; background-color: #84154D; }
+.megamenu-skin-npf .megamenu-parent-3 .megamenu-bin { border-top: 6px solid #84154D; }
+
+.megamenu-parent-4 span.nolink { color: #098346; }
+.megamenu-skin-npf li.hovering.megamenu-parent-4 .megamenu-parent-title a, .megamenu-skin-npf li.hovering.megamenu-parent-4 .megamenu-parent-title span { color:#fff; background-color: #098346; }
+.megamenu-skin-npf .megamenu-parent-4 .megamenu-bin { border-top: 6px solid #098346; }
+
+.megamenu-parent-5 span.nolink { color: #1399BE; }
+.megamenu-skin-npf li.hovering.megamenu-parent-5 .megamenu-parent-title a, .megamenu-skin-npf li.hovering.megamenu-parent-5 .megamenu-parent-title span { color:#fff; background-color: #1399BE; }
+.megamenu-skin-npf .megamenu-parent-5 .megamenu-bin { border-top: 6px solid #1399BE; }
+
+.megamenu-parent-6 span.nolink { color: #3C0378; }
+.megamenu-skin-npf li.hovering.megamenu-parent-6 .megamenu-parent-title a, .megamenu-skin-npf li.hovering.megamenu-parent-6 .megamenu-parent-title span { color:#fff; background-color: #3C0378; }
+.megamenu-skin-npf .megamenu-parent-6 .megamenu-bin { border-top: 6px solid #3C0378; }
+
+.megamenu-parent-6 span.nolink { color: #8768de; }
+.megamenu-skin-npf li.hovering.megamenu-parent-6 .megamenu-parent-title a, .megamenu-skin-npf li.hovering.megamenu-parent-6 .megamenu-parent-title span { color:#fff; background-color: #8768de; }
+.megamenu-skin-npf .megamenu-parent-6 .megamenu-bin { border-top: 6px solid #8768de; }
+
+.megamenu-skin-npf .megamenu-slot {
+	float: left;
+    margin:0 10px 20px 10px;
+	border-right:1px dotted #bbbbbb;
+    width: 200px;
+}
+
+.megamenu-skin-npf .megamenu-slot-3, .megamenu-skin-npf .megamenu-slot-7, .megamenu-skin-npf .megamenu-slot.last {
+	margin-right: 0;
+	border-right:none;
+}
+
+.megamenu-skin-npf .megamenu-slot-4, .megamenu-skin-npf .megamenu-slot-8, .megamenu-skin-npf .megamenu-slot-12 {
+    clear: both;
+}
+
+.megamenu-skin-npf .megamenu-slot-title a {
+	color:#333;
+	font-weight:bold;
+}
+
+.megamenu-skin-npf .megamenu-items li {
+	list-style:none;
+    font-size: 12px;
+}
+
+.megamenu-skin-npf .megamenu-items li a {
+    color: #000066;
+}
+
+.megamenu-skin-npf .megamenu-items li a:hover {
+    text-decoration: underline;
+}
+
+.megamenu-slots-columnar li.megamenu-slot {
+    list-style: none;
+}
+
+h3.megamenu-slot-title {
+    font-size: 16px !important;
+    margin-bottom: 10px !important;
+}
+
+/* Basic Typography & Colors
+-------------------------------------------------------------- */
+
+
+
+
+
+/* Home Page Topic box */
+
+.topic-box {
+    border: 1px solid #E7E7E7;
+    float: left;
+    margin-right: 18px;
+	margin-bottom: 22px;
+    height: 160px;
+    text-align: center;
+    position: relative;
+    width: 182px;
+}
+
+.office-blocks .topic-box {
+    height: 173px;
+}
+
+.topic-box .last {
+    margin-right: 0;
+}
+
+.topic-box h2 {
+    color: #fff;
+    font-weight: normal;
+    font-size: 150%;
+    height: 28px;
+    margin-bottom: 0;
+    padding: 5px 0 4px 0;
+    text-align: center;
+	margin:0px;
+}
+
+.office-blocks .topic-box h2 {
+    font-size: 120%;
+    margin: 10px 10px 6px 12px;
+}
+
+.topic-education h2     { background: transparent url(../images/frontpage_blocks/ico_edu.png) no-repeat; }
+.topic-health h2        { background: transparent url(../images/frontpage_blocks/ico_health.png) no-repeat; }
+.topic-agriculture h2   { background: transparent url(../images/frontpage_blocks/ico_agr.png) no-repeat; }
+.topic-commerce h2      { background: transparent url(../images/frontpage_blocks/ico_com.png) no-repeat; }
+.topic-tourism h2       { background: transparent url(../images/frontpage_blocks/ico_tour.png) no-repeat; }
+.topic-others h2        { background: transparent url(../images/frontpage_blocks/ico_other.png) no-repeat; }
+
+.topic-box img {
+    margin: 0 auto;
+    /*margin-left: 12px;
+    margin-bottom: 7px;*/
+}
+
+.topic-box ul {
+    display: none;
+    background-color: #333;
+    height: 130px;
+    left: 0;
+    margin: 0;
+    opacity: 0.9;
+    padding-left: 2.3em;
+    padding-top: 6px;
+    position: absolute;
+    top: 28px;
+    width: 180px;
+}
+
+.topic-box li {
+    list-style-image: url(../images/bullet_arrow.png);
+    margin-bottom: 5px;
+    font-size: 120%;
+    text-align: left;
+}
+
+.topic-box ul li a {
+    color: #fff !important;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+/* Gradients */
+
+h2.grad9 {
+    background-color:  #C40A2A;
+}
+
+h2.grad8 {
+    background-color: #000;
+}
+
+h2.grad7 {
+    background-color: #8768DE;
+}
+
+h2.grad6 {
+    background-color: #1399BE;
+}
+
+h2.grad5 {
+    background-color: #098346;
+}
+
+h2.grad4 {
+    background-color: #84154D;
+}
+
+h2.grad3 {
+    background-color: #C40A2A;
+}
+
+h2.grad2 {
+    background-color: #FF6600;
+}
+
+h2.grad1 {
+    background-color: #000;
+}
+hr {
+    height: 0px;
+    border: 1px solid #808080;
+}
